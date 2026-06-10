@@ -31,7 +31,7 @@ Technologies Used
 
 Project Structure
 
-IntelligentDocumentProcessing/
+Intelligent-Document-Processing
 │
 ├── app.py
 ├── README.md
